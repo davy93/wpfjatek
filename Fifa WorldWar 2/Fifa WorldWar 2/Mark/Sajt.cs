@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fifa_WorldWar_2.Mark
 {
-    class Class1
+    class Sajt
     {
     }
 }

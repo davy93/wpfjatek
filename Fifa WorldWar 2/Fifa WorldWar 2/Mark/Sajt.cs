@@ -8,5 +8,6 @@ namespace Fifa_WorldWar_2.Mark
 {
     class Sajt
     {
+        static int jani = 0;
     }
 }
